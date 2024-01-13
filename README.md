@@ -1,0 +1,1 @@
+It is a whatsapp chatbot that gives the covid stats, finds the weather information , gives the wikipedida information of the word , and also finds given valid permutation of the words to solve the word riddle
